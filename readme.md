@@ -1,4 +1,4 @@
-Install npm if you have it
+Install npm if you dont have it
 
 Run a server to test the pages
 
